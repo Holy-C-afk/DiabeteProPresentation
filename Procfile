@@ -1,0 +1,1 @@
+web: gunicorn presentation_django.wsgi:application 
